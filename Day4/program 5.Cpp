@@ -24,3 +24,4 @@ int main() {
     cout << base << "^" << exp << " = " << power(base, exp);
 
     return 0;
+}
